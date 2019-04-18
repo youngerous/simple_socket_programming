@@ -4,4 +4,4 @@
 2. After implementing server and client code, the "file.txt" will be copied to client folder.
 
 * Visual Studio 2017, Windows.
-* Seperated VS Solutions. 
+* Separated VS Solutions. 
